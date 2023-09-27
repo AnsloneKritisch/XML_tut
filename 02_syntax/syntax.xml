@@ -1,0 +1,21 @@
+<!-- xml prologue -->
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!-- root element ( friendlist)  -->
+
+<friendlists>
+    <friend> 
+        <name>Alex</name>
+        <age>25</age>
+    </friend>
+</friendlists>
+
+
+
+<root>
+    <child>
+        <subchild></subchild>
+        <subchild></subchild>
+    </child>
+</root>

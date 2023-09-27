@@ -1,0 +1,61 @@
+What is XML ?
+_______________
+
+XML = eXtensible Markup Language
+
+In XML we use tags <> or marks
+you can use your own tags i.e. tags are not limited and not predefined,
+it can be extended
+XML is used to store and transport data
+XML is a W3C Recommendation
+a software and hardware independent way of storing, transporting, and sharing data both human and machine readable
+
+
+Best VS Code extension For the JOB 
+___________________________________
+
+Here are some of the best VS Code extensions for XML learning:
+
+XML Tools: This extension provides a set of tools for working with XML files, including formatting, validation, and XPath search.
+
+XML IntelliSense: This extension enhances XML editing by providing intelligent autocompletion, tag closing, and attribute value suggestions.
+
+XML Utils: This extension offers various utilities for XML editing, such as tag wrapping, tag matching, and tag sorting.
+
+XML Outline: This extension generates an outline view of your XML file, making it easier to navigate and understand the structure.
+XML to JSON: This extension allows you to convert XML files to JSON format directly within VS Code.
+
+You can find these extensions by searching for their names in the VS Code extension marketplace.
+
+
+Rules to be followed while writing XML tags
+____________________________________________
+
+
+While designing the XMLs, you shall follow certain rules as mentioned below:
+XML Document Syntax Rules:
+ XML Tags are case sensitive.
+ All XML elements shall have closing tags.
+ XML Elements shall be properly nested.
+ XML Attribute values must be in quotes.
+ Some Special characters have entity reference. It means that few special characters are already used as HTML pre-defined tags. So, if we need to
+
+
+
+What is XML Validation ?
+_________________________
+
+Syntax | Structure
+is well formed (satisfy all the basic syntax condition) behaves according to predefined DTD or XML schema 
+
+DD - Document Type Definition
+XSD - XML Schema Definition
+
+
+
+
+
+Best Websites for the Job 
+__________________________
+
+

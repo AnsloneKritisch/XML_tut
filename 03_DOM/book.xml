@@ -1,0 +1,10 @@
+<books>
+    <book>
+        <author>Anshu</author>
+        <price>100</price>
+    </book>
+    <pubish>
+        <publisher>MSPress</publisher>
+        <state>WB</state>
+    </pubish>
+</books>
